@@ -1,0 +1,12 @@
+.widgetweather {   
+    max-width: 300px;
+    background: #e1e1e1;
+    padding: 20px;
+    border-radius: 12px;
+    color: #636363;
+    position: absolute;
+    top: 10px;
+    right: 50px;}
+.ee-weather {
+        display: inline-block;
+        padding: 4px;}
